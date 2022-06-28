@@ -14,6 +14,6 @@ public class WebDockerApplication {
 	}
 	@RequestMapping("/")
 	public String home() {
-		return "Hello Docker World";
+		return "Together with me, our life will be more wonderful and happier! ";
 	}
 }
